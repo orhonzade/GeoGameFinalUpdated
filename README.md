@@ -56,3 +56,4 @@ Event listeners manage dynamic functionality within the game:
 -What is supabase and how can it be use.
 -Dynamic buttons.
 -Connecting the project and database
+-Most of all solution for errors while programming.
