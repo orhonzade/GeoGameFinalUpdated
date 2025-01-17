@@ -51,3 +51,7 @@ Event listeners manage dynamic functionality within the game:
 
 - Admin CRUD actions (add, edit, delete).
 - Player question navigation and answer submission.
+ ### What ı learned from Ai
+-What is supabase and how can it be use.
+-Dynamic buttons.
+-Connecting the project and database
